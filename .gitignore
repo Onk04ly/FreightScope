@@ -48,3 +48,6 @@ backend/uploads/
 .pytest_cache/
 .coverage
 htmlcov/
+
+#files to be ignored 
+.planning/
